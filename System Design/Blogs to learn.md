@@ -1,0 +1,36 @@
+
+30 Blogs to Learn 30 System Design Concepts:
+1. APIs: [https://blog.algomaster.io/p/whats-an-api](https://t.co/SFR7c1yi1Z) 
+2. API Gateway: [https://blog.algomaster.io/p/what-is-an-api-gateway](https://t.co/kjlIJy9ElI) 
+3. Scalability: [https://blog.algomaster.io/p/scalability](https://t.co/Gbpjax24gd) 
+4. Availability: [https://blog.algomaster.io/p/system-design-what-is-availability](https://t.co/GfakejdGQz) 
+5. CAP Theorem: [https://blog.algomaster.io/p/cap-theorem-explained](https://t.co/Aaq5s96WFU) 
+6. Load Balancers: [https://blog.algomaster.io/p/e1fa4254-9383-4c3a-be96-1d4ce2322575](https://t.co/O4WkWoVCuC) 
+7. Load Balancing Algorithms: [https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code](https://t.co/zrVmh7rURa) 
+8. Caching: [https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2](https://t.co/Jed9uIFFim) 
+9. Caching Strategies: [https://blog.algomaster.io/p/top-5-caching-strategies-explained](https://t.co/xhxmMgVQvW) 
+10. Cache Eviction Strategies: [https://blog.algomaster.io/p/7-cache-eviction-strategies](https://t.co/eGUV3zzG3A) 
+11. Distributed Caching: [https://blog.algomaster.io/p/distributed-caching](https://t.co/W8eX81OAKp) 
+12. CDNs: [https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a](https://t.co/kPyu251AjO) 
+13. Database Types: [https://blog.algomaster.io/p/15-types-of-databases](https://t.co/zhPaltn2bo) 
+14. SQL vs NoSQL: [https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences](https://t.co/vDTE5PqNel) 
+15. ACID Transactions: [https://blog.algomaster.io/p/what-are-acid-transactions-in-databases](https://t.co/eQBBIIM6w9)
+16. Database Indexes: [https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes](https://t.co/CKk39deBkk)
+17. Database Sharding: [https://blog.algomaster.io/p/what-is-database-sharding](https://t.co/nIkBZ8FZtv) 
+18. Database Scaling: [https://blog.algomaster.io/p/system-design-how-to-scale-a-database](https://t.co/vZ7rdPddoC) 
+19. WebSockets: [https://blog.algomaster.io/p/websockets](https://t.co/IhWwUY8wku) 
+20. Message Queues: [https://blog.algomaster.io/p/message-queues](https://t.co/BTX85efXZu) 
+21. Service Discovery: [https://blog.algomaster.io/p/service-discovery-in-distributed-systems](https://t.co/JK8uJkgSQf)
+22. Bloom Filters: [https://blog.algomaster.io/p/bloom-filters](https://t.co/vNV9yFrixf) 
+23. Rate Limiting Algorithms: [https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code](https://t.co/mjnf3S9PUA) 
+24. SPOF: [https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures](https://t.co/5FtrH1Shrc)
+25. Idempotency: [https://blog.algomaster.io/p/idempotency-in-distributed-systems](https://t.co/lsMSkZrS38) 
+26. Checksums: [https://blog.algomaster.io/p/what-are-checksums](https://t.co/lFq0K6Cy6z) 
+27. Long Polling vs WebSockets: [https://blog.algomaster.io/p/long-polling-vs-websockets](https://t.co/MB628lZb2w)
+28. Concurrency vs Parallelism: [https://blog.algomaster.io/p/concurrency-vs-parallelism](https://t.co/DWmMDNjkxR) 
+29. Proxy vs Reverse Proxy: [https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained](https://t.co/AR8L9F2met)
+30. Batch vs Stream Processing: [https://blog.algomaster.io/p/batch-processing-vs-stream-processing](https://t.co/q3MCCs26wd)  
+
+## Important one 
+
+https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b
