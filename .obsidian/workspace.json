@@ -119,10 +119,14 @@
             "id": "74f0b82ecee8bfb2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "references/Building a second brain/Capture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capture"
             }
           }
         ],
@@ -273,8 +277,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4e98107eceef17",
+  "active": "74f0b82ecee8bfb2",
   "lastOpenFiles": [
+    "references/Building a second brain/CODE.md",
+    "references/Building a second brain/Capture.md",
+    "references/Building a second brain/Part 1 Foundation.md",
     "DSA/Day 50 (2).md",
     "DSA/Day 50 (1).md",
     "Tags/queue.md",
@@ -309,10 +316,7 @@
     "My-obsidian-notes/DSA",
     "My-obsidian-notes",
     "DSA/Day 49 (1).md",
-    "System Design/Blogs to learn.md",
     "Untitled.canvas",
-    "references/Building a second brain/Building a second brain intro.md",
-    "references/Building a second brain/Express.md",
     "Untitled",
     "references/Building a second brain",
     "Pasted image 20250205135138.png",
