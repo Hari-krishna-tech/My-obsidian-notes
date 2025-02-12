@@ -11,10 +11,10 @@
             "id": "eb11ac074670309e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,6 +166,9 @@
   },
   "active": "eb11ac074670309e",
   "lastOpenFiles": [
+    "DSA/day 53 (2).md",
+    "Tags/bucket sort.md",
+    "DSA/day 54 (1).md",
     "references/Building a second brain/Part 1 Foundation.md",
     "System Design/Blogs to learn.md",
     "DSA/Day 49 (1).md",
@@ -176,7 +179,6 @@
     "references/Building a second brain/Capture.md",
     "DSA/Day 51 (1).md",
     "DSA/day 53 (1).md",
-    "DSA/day 53 (2).md",
     "Tags/priority queue.md",
     "DSA/Day 51 (2).md",
     "references/Building a second brain/CODE.md",
@@ -196,8 +198,6 @@
     "My-obsidian-notes/Tags/Next Greater Element.md",
     "My-obsidian-notes/Tags/MonotonicStack.md",
     "My-obsidian-notes/Tags/Dopamine.md",
-    "My-obsidian-notes/Tags/DSA.md",
-    "My-obsidian-notes/Tags/132 Pattern.md",
     "My-obsidian-notes/Tags",
     "My-obsidian-notes/Pasted image 20250205141036.png",
     "My-obsidian-notes/Pasted image 20250205135138.png",
