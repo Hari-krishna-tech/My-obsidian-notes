@@ -23,7 +23,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 55 (2).md",
+                "file": "DSA/Day 54 (2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 54 (2)"
+            }
+          },
+          {
+            "id": "797608016eb590c7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7cebf4f755bac504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Day 55 (2).md",
                 "mode": "source",
                 "source": false
               },
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,9 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a7d2da516dd919",
+  "active": "aa4e98107eceef17",
   "lastOpenFiles": [
-    "Day 55 (2).md",
+    "DSA/Day 55 (2).md",
+    "DSA/Day 55 (1).md",
+    "Tags/recursion.md",
+    "Tags/merge sort.md",
+    "DSA/Day 54 (2).md",
     "DSA/day 53 (2).md",
     "Tags/bucket sort.md",
     "DSA/day 54 (1).md",
@@ -207,12 +235,8 @@
     "Tags/LLM.md",
     "My-obsidian-notes/references/Building a second brain/Part 1 Foundation.md",
     "My-obsidian-notes/references/Building a second brain/Building a second brain intro.md",
-    "My-obsidian-notes/references/Dopamine Loading.md",
     "My-obsidian-notes/references/Building a second brain",
     "My-obsidian-notes/references",
-    "My-obsidian-notes/Tags/second brain.md",
-    "My-obsidian-notes/Tags/Next Greater Element.md",
-    "My-obsidian-notes/Tags/MonotonicStack.md",
     "My-obsidian-notes/Tags",
     "My-obsidian-notes/Pasted image 20250205141036.png",
     "My-obsidian-notes/Pasted image 20250205135138.png",
