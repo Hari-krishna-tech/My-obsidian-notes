@@ -4,211 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "de4450ef831c0e03",
+        "id": "dc69d78cdf825f33",
         "type": "tabs",
         "children": [
           {
-            "id": "eb11ac074670309e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "75a7d2da516dd919",
+            "id": "ce9d063d7e8518b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Day 54 (2).md",
+                "file": "DSA/Day 61 (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 54 (2)"
-            }
-          },
-          {
-            "id": "797608016eb590c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7cebf4f755bac504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Day 55 (2).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 55 (2)"
-            }
-          },
-          {
-            "id": "2fd24e89d03d72e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "558113a80820ae31",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "497f7398f2b3222c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/Local Notification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Notification"
-            }
-          },
-          {
-            "id": "d25413681cfd6807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/divide and conquere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "divide and conquere"
-            }
-          },
-          {
-            "id": "235398f486c52fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Day 57 (2).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 57 (2)"
-            }
-          },
-          {
-            "id": "cf1a81e979ece511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Day 58 (1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 58 (1)"
-            }
-          },
-          {
-            "id": "c41c62c01a22780e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ff92bb6fc264b4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Day 59 (1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 59 (1)"
-            }
-          },
-          {
-            "id": "04b97000203970ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "cd911513f552a932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/Adding new Logo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adding new Logo"
-            }
-          },
-          {
-            "id": "01236efcf06b3c59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Day 60 (1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 60 (1)"
-            }
-          },
-          {
-            "id": "93f63dfa17a15cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Day 60 (1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 60 (1)"
+              "title": "Day 61 (2)"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,36 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93f63dfa17a15cc2",
+  "active": "aa4e98107eceef17",
   "lastOpenFiles": [
+    "DSA/Day 61 (2).md",
     "DSA/Day 60 (2).md",
     "DSA/Day 60 (1).md",
-    "Tags/binary search.md",
     "Android/Adding new Logo.md",
-    "Android/Local Notification.md",
-    "Tags/android.md",
-    "DSA/Day 59 (2).md",
-    "Tags/quick sort.md",
     "DSA/Day 59 (1).md",
-    "Tags/sorting.md",
-    "DSA/Day 58 (2).md",
     "DSA/Day 58 (1).md",
     "DSA/Day 57 (2).md",
     "Tags/divide and conquere.md",
+    "Android/Local Notification.md",
+    "DSA/Day 55 (2).md",
+    "DSA/Day 54 (2).md",
+    "DSA/Day 61 (1).md",
+    "Tags/binary search.md",
+    "Tags/android.md",
+    "DSA/Day 59 (2).md",
+    "Tags/quick sort.md",
+    "Tags/sorting.md",
+    "DSA/Day 58 (2).md",
     "DSA/Day 57 (1).md",
     "Pasted image 20250214215054.png",
     "Pasted image 20250214214933.png",
     "Tags/binary tree.md",
     "DSA/Day 56 (2).md",
     "DSA/Day 56 (1).md",
-    "DSA/Day 55 (2).md",
     "DSA/Day 55 (1).md",
     "Tags/recursion.md",
     "Tags/merge sort.md",
-    "DSA/Day 54 (2).md",
     "DSA/day 53 (2).md",
-    "Tags/bucket sort.md",
-    "DSA/day 54 (1).md",
     "Pasted image 20250208200620.png",
     "Pasted image 20250208195616.png",
     "Pasted image 20250208195417.png",
