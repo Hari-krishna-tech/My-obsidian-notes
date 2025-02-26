@@ -180,9 +180,23 @@
               "icon": "lucide-file",
               "title": "Day 68 (1)"
             }
+          },
+          {
+            "id": "c27bf3ab81c3f0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Day 68 (2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 68 (2)"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -332,6 +346,7 @@
   "active": "aa4e98107eceef17",
   "lastOpenFiles": [
     "DSA/Day 68 (1).md",
+    "DSA/Day 68 (2).md",
     "Tags/react.md",
     "Frontend/Getting Started with WASM in React.md",
     "Tags/rust.md",
@@ -356,7 +371,6 @@
     "Android/Adding new Logo.md",
     "DSA/Day 59 (1).md",
     "DSA/Day 58 (1).md",
-    "DSA/Day 57 (2).md",
     "Pasted image 20250214215054.png",
     "Pasted image 20250214214933.png",
     "Pasted image 20250208200620.png",
