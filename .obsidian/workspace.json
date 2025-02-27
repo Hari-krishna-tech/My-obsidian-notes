@@ -239,12 +239,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Day 69 (4).md",
+                "file": "references/Building a second brain/Organize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 69 (4)"
+              "title": "Organize"
             }
           }
         ],
@@ -397,8 +397,14 @@
   },
   "active": "aa4e98107eceef17",
   "lastOpenFiles": [
-    "DSA/Day 69 (3).md",
+    "Archives",
+    "references/Building a second brain/Capture.md",
+    "references/Building a second brain/CODE.md",
+    "references/Building a second brain/How second brain work.md",
+    "references/Building a second brain/Part 1 Foundation.md",
+    "references/Building a second brain/Organize.md",
     "DSA/Day 69 (4).md",
+    "DSA/Day 69 (3).md",
     "Tags/bfs.md",
     "DSA/Day 69 (2).md",
     "Tags/level order traversal.md",
@@ -417,12 +423,6 @@
     "DSA/Day 65 (2).md",
     "DSA/Day 65 (1).md",
     "references/Eletricity No..md",
-    "DSA/Day 64 (2).md",
-    "DSA/Day 64 (1).md",
-    "DSA/Day 63 (2).md",
-    "DSA/Day 63 (1).md",
-    "DSA/Day 62 (2).md",
-    "DSA/Day 62 (1).md",
     "Pasted image 20250214215054.png",
     "Pasted image 20250214214933.png",
     "Pasted image 20250208200620.png",
@@ -437,7 +437,6 @@
     "My-obsidian-notes/DSA",
     "My-obsidian-notes",
     "Untitled.canvas",
-    "Untitled",
     "references/Building a second brain",
     "Pasted image 20250205135138.png",
     "Pasted image 20250205141036.png",
