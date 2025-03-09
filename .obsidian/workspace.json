@@ -238,9 +238,47 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1b4e8857a1949e2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "586c31dadf5770b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Day 79 (2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 79 (2)"
+            }
+          },
+          {
+            "id": "c8610b8c8e047fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Day 79 (3).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 79 (3)"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -387,8 +425,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36807d2b962cba33",
+  "active": "aa4e98107eceef17",
   "lastOpenFiles": [
+    "DSA/Day 79 (2).md",
+    "DSA/Day 79 (3).md",
+    "DSA/Day 79 (1).md",
     "DSA/Day 78(3).md",
     "DSA/Day 78 (2).md",
     "DSA/Day 78 (1).md",
@@ -412,9 +453,6 @@
     "Tags/iterative.md",
     "DSA/Day 73 (2).md",
     "Tags/binary search tree.md",
-    "DSA/Day 73 (1).md",
-    "DSA/Day 72 (2).md",
-    "Tags/post order traversal.md",
     "Archives",
     "Pasted image 20250214215054.png",
     "Pasted image 20250214214933.png",
