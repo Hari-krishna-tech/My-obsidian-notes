@@ -183,3 +183,12 @@ Your WASM-powered JSON-YAML converter should now be working.
   
 
 Would you like a specific feature implemented first? 🚀
+
+
+**How WASM works**
+
+• The .wasm binary is passed to the browser’s WebAssembly engine.
+
+• The browser compiles the binary code into **native machine code** using a **just-in-time (JIT) compiler**.
+
+• The compiled code is stored in memory for fast execution.

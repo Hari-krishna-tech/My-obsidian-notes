@@ -283,16 +283,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Day 80 (2).md",
+                "file": "Frontend/Getting Started with WASM in React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 80 (2)"
+              "title": "Getting Started with WASM in React"
+            }
+          },
+          {
+            "id": "357129f4b656f2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Day 81 (1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 81 (1)"
+            }
+          },
+          {
+            "id": "ba922acd25a58333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/serialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "serialization"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -441,10 +469,13 @@
   },
   "active": "aa4e98107eceef17",
   "lastOpenFiles": [
-    "DSA/Day 80 (1).md",
-    "DSA/Day 80 (2).md",
-    "DSA/Day 79 (2).md",
+    "DSA/Day 81 (2).md",
+    "Tags/serialization.md",
+    "DSA/Day 81 (1).md",
     "Frontend/Getting Started with WASM in React.md",
+    "DSA/Day 80 (2).md",
+    "DSA/Day 80 (1).md",
+    "DSA/Day 79 (2).md",
     "DSA/Day 79 (3).md",
     "DSA/Day 79 (1).md",
     "DSA/Day 78(3).md",
@@ -464,9 +495,6 @@
     "DSA/Day 75 (1).md",
     "DSA/Day 74 (3).md",
     "DSA/Day 74 (2).md",
-    "Tags/dfs.md",
-    "DSA/Day 74 (1).md",
-    "DSA/Day 73 (3).md",
     "Archives",
     "Pasted image 20250214215054.png",
     "Pasted image 20250214214933.png",
