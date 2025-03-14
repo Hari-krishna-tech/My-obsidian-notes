@@ -22,7 +22,15 @@ text
 
 rust
 
-`// lib.rs mod utils; mod math; #[wasm_bindgen] pub fn greet(name: &str) {     utils::print_greeting(name); } #[wasm_bindgen] pub fn add(a: i32, b: i32) -> i32 {     math::add(a, b) }`
+`// lib.rs
+mod utils;
+mod math;
+#[wasm_bindgen]
+pub fn greet(name: &str) {     
+utils::print_greeting(name); }
+#[wasm_bindgen] 
+pub fn add(a: i32, b: i32) -> i32 
+{     math::add(a, b) }`
 
 ## utils.rs Example
 
