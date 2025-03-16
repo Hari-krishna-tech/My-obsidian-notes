@@ -100,9 +100,19 @@
               "icon": "lucide-file",
               "title": "Day 86 (2)"
             }
+          },
+          {
+            "id": "09dc4f7972c7a812",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -249,10 +259,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4e98107eceef17",
+  "active": "09dc4f7972c7a812",
   "lastOpenFiles": [
-    "Tags/tries.md",
+    "Tags/system design.md",
+    "System Design/Important Topics in system design.md",
+    "System Design/Blogs to learn.md",
     "DSA/Day 86 (2).md",
+    "Tags/tries.md",
     "DSA/Day 86 (1).md",
     "DSA/Day 85 (1).md",
     "Frontend/Creating multiple files in rust.md",
@@ -274,9 +287,6 @@
     "DSA/Day 76 (2).md",
     "DSA/Day 77 (1).md",
     "DSA/Day 77 (2).md",
-    "DSA/Day 77 (3).md",
-    "Tags/morris traversal.md",
-    "DSA/Day 78 (1).md",
     "Archives",
     "Pasted image 20250214215054.png",
     "Pasted image 20250214214933.png",
