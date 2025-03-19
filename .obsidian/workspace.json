@@ -152,9 +152,37 @@
               "icon": "lucide-file",
               "title": "bit manipulation"
             }
+          },
+          {
+            "id": "707aa7991b61d635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Day 89 (1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 89 (1)"
+            }
+          },
+          {
+            "id": "5e5fc4cbf6260066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Day 89 (2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 89 (2)"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -301,10 +329,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4e98107eceef17",
+  "active": "5e5fc4cbf6260066",
   "lastOpenFiles": [
-    "DSA/Day 88 (1).md",
+    "DSA/Day 89 (1).md",
+    "DSA/Day 89 (2).md",
     "Tags/bit manipulation.md",
+    "DSA/Day 88 (1).md",
     "DSA/Day 87 (2).md",
     "DSA/Day 87 (1).md",
     "Tags/system design.md",
@@ -327,8 +357,6 @@
     "DSA/Day 74 (3).md",
     "Tags/in order traversal.md",
     "DSA/Day 75 (2).md",
-    "DSA/Day 75 (3).md",
-    "DSA/day 75(4).md",
     "Archives",
     "Pasted image 20250214215054.png",
     "Pasted image 20250214214933.png",
